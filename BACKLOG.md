@@ -5,10 +5,10 @@ Replace FR/NFR IDs and names with the ones from your SRS.
 ## Team
 | Code | Member | Role |
 |------|--------|------|
-| M1 | [Name 1] | Repo owner and lead |
-| M2 | [Name 2] | Authentication, security, performance |
-| M3 | [Name 3] | Admin side |
-| M4 | [Name 4] | Student side and testing |
+| M1 | Pratistha| Repo owner and lead |
+| M2 | Sharvari | Authentication, security, performance |
+| M3 | Srishti | Admin side |
+| M4 | Shwetha | Student side and testing |
 
 ## Sprint 1 (19 Oct - 23 Oct): core working product
 | ID | Item | Points | Owner |
