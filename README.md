@@ -1,14 +1,14 @@
 # Online Quiz System
 
-A web-based quiz platform where admins create quizzes and students attempt them, get auto-evaluated scores and view their results. [Edit this line to match your SRS.]
+A web-based quiz platform where admins create quizzes and students attempt them, get auto-evaluated scores and view their results. Pratistha Majumder PES1UG25CS831
 
 ## Team 13
 | Member | Role | Focus area | GitHub |
 |--------|------|-----------|--------|
-| [Name 1] | Repo owner and lead | Setup, CI, scoring logic, reviews, documentation | @[username1] |
-| [Name 2] | Developer | Authentication, security, performance | @[username2] |
-| [Name 3] | Developer | Admin side: quiz creation, reports | @[username3] |
-| [Name 4] | Developer and tester | Student side: attempt, results, test cases | @[username4] |
+|Prtaistha Majumder | Repo owner and lead | Setup, CI, scoring logic, reviews, documentation | @[username1] |
+| Sharvari Naik | Developer | Authentication, security, performance | @[username2] |
+| Srishti Rao | Developer | Admin side: quiz creation, reports | @[username3] |
+| Shwetha  | Developer and tester | Student side: attempt, results, test cases | @[username4] |
 
 ## Features
 - User registration and login (student / admin)
@@ -39,4 +39,3 @@ A web-based quiz platform where admins create quizzes and students attempt them,
 - Sprint 2 (2 min): [demo/sprint2.mp4 or link]
 
 ## Project Board
-[Paste link to your GitHub Project board here]
